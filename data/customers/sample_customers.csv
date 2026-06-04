@@ -1,0 +1,11 @@
+name,email,phone,city,total_spend,order_count,last_order_date,segment,tags
+Priya Sharma,priya.sharma@demo.com,+917891234560,Delhi,85000,35,2024-09-15,high-value,fashion
+Rahul Gupta,rahul.gupta@demo.com,+917891234561,Mumbai,12000,6,2024-07-20,mid,electronics
+Anjali Singh,anjali.singh@demo.com,+917891234562,Bangalore,3500,2,2024-05-10,casual,food
+Vikram Mehta,vikram.mehta@demo.com,+917891234563,Pune,62000,28,2024-10-01,high-value,travel
+Deepika Nair,deepika.nair@demo.com,+917891234564,Chennai,8000,4,2024-06-18,mid,wellness
+Arjun Patel,arjun.patel@demo.com,+917891234565,Hyderabad,1200,1,2024-04-05,casual,books
+Meera Joshi,meera.joshi@demo.com,+917891234566,Jaipur,45000,18,2024-08-22,high-value,fashion
+Nikhil Reddy,nikhil.reddy@demo.com,+917891234567,Kolkata,18000,9,2024-07-30,mid,sports
+Tanvi Kapoor,tanvi.kapoor@demo.com,+917891234568,Ahmedabad,2800,2,2024-03-14,casual,home
+Gaurav Iyer,gaurav.iyer@demo.com,+917891234569,Lucknow,55000,22,2024-09-28,high-value,electronics
